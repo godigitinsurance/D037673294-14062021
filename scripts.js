@@ -1,7 +1,7 @@
 $("#customerName").text("Shiv Kumar");
 $("#policyNumber").text("D037673294 / 14062021");
-$("#startDate").text("24-Jun-2021");
-$("#endDate").text("23-Jun-2022");
+$("#startDate").text("15-Sep-2021");
+$("#endDate").text("14-Sep-2022");
 
 
 $("#type").text("Two Wheeler");
